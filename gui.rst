@@ -14,6 +14,6 @@ Next, you have to tell your WSL environment to use the X Server by setting the `
 
 I added the following to my ``~/.bashrc``::
 
-    export DISPLAY=:0
+    export DISPLAY=localhost:0
 
 
